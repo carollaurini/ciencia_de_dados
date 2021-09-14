@@ -1,0 +1,27 @@
+{
+    "id": "7A32D871",
+    "path": "W:/Correlacao_de_fundos/correlacao_de_fundos/entropia.R",
+    "project_path": "entropia.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1630005006989.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "5,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1630005299,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1630005299563,
+    "read_only": false,
+    "read_only_alternatives": []
+}
