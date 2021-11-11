@@ -1,0 +1,15 @@
+mensal
+out
+2016-04-29
+2017-01-31
+Alphadyne
+Database
+n
+
+diario
+out2
+2016-04-29
+2017-01-31
+BLACK COMM MS II
+Database
+n
