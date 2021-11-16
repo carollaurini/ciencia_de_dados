@@ -1,0 +1,23 @@
+diario
+equities
+2016-08-17
+2021-08-13
+KPZETAF BZ Equity
+Database
+y
+HPRFIC BZ Equity
+Database
+y
+BEMFIRD BZ Equity
+Database
+n
+y
+mensal
+3g_fund
+2016-08-17x
+2021-08-13x
+3G SPECIAL SITUATIONS FUND IV SUB/RED
+Database
+n
+n
+3G SPECIAL SITUATIONS FUND IV SUB/RED
